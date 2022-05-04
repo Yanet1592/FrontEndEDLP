@@ -1,0 +1,46 @@
+
+h1 {background-color: rgb(233,150,122); text-align:center;text-decoration:underline;}
+h2 {background-color: rgb(233,150,122); text-align:center;text-decoration:underline; color: black;}
+h3 {background-color: rgb(233,150,122); text-align:center;text-decoration:underline; color: black;}
+body {background-color: rgb(153,102,153);}
+p1 {color: black; font-family: Helvetica; font-size: medium; text-align: justify;}
+p2 {color: black;text-align: justify;}
+h2 {color: rgb(220,220,220); font-style: oblique; text-align: center;text-decoration: underline;}
+ul {color: black; font-size: larger;text-align: center;}
+iframe width="560" height="315" src="https://www.youtube.com/embed/bhi74---e_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe {display: block; margin: 0px auto;}
+.mapa
+.parrafo3 {color: black; font-family: Helvetica; font-size: medium; text-align: justify;}
+.parrafo4 {color: black; font-family: Helvetica; font-size: medium; text-align: justify;}
+.parrafo5 {color: black; font-family: Helvetica; font-size: medium; text-align: justify;}
+.parrafo6 {color: black; font-family: Helvetica; font-size: medium; text-align: justify;}
+.parrafo7 {color: black; font-family: Helvetica; font-size: medium; text-align: justify;}
+.ramen1 {height: 40%; width: 40%; object-fit: contain; display: block; margin: 0px auto}
+ol {color: black; font-size: larger;text-align: center;}
+
+.mapa {
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 25px;
+        height: 0;
+}
+.mapa iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+}
+
+.video {
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 25px;
+        height: 0;
+}
+.video iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+}
